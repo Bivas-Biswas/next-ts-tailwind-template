@@ -1,4 +1,3 @@
-# aikatan-2023-frontend
 
 ## How to Run
 
