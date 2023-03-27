@@ -70,7 +70,7 @@ const HeadManager = (props: NextSeoProps) => {
           rel="stylesheet"
           crossOrigin="anonymous"
         />
-        <link rel="icon" href="/favicon.svg" />
+        {/* <link rel="icon" href="/favicon.svg" /> */}
         <title>{common.title}</title>
       </Head>
       <DefaultSeo {...seoConfig} />
